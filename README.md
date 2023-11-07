@@ -1,7 +1,9 @@
 # Overall Description
 
-Actually, this is the course that guides me to the world of Computer Science. I don't know how to finish the optional labs when I started learning this course, but now after the study of CS61A, I come back and try to finish all the optional labs on my own. And this is the reason why all notes you see in this repo were created a half year ago before this repo is created.  
-Meanwhile, this is a good chance for me to learn markdown and some LaTex.  
+Actually, this is the course that guides me to the world of Computer Science. I don't even know how to use the optional labs when I first started learning this course, but now, after the study of CS61A, I come back and try to finish all the optional labs on my own. And this is the reason why many notes you see in this repo were created a half year ago before this repo is created.  
+Meanwhile, this is a good chance for me to learn Markdown and some easy LaTex.
+
+- Typed on 2023-11-6
 
 ## Course Link
 
