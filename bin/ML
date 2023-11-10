@@ -1,0 +1,11 @@
+#!/bin/bash
+
+SCRIPTDIR=$(cd $(dirname "${BASH_SOURCE[0]}") >/dev/null && pwd)
+
+echo "Loading Coursera--Machine Learning workflow..."
+echo "Remember to use source command to direct to this repository."
+
+code ${SCRIPTDIR}/..
+cd ${SCRIPTDIR}/..
+
+echo "Complete!"
