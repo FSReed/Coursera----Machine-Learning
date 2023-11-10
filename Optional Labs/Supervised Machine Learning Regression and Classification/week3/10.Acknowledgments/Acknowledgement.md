@@ -1,5 +1,6 @@
 # Acknowledgments
-Our sincerest thanks to YOU, for enrolling in this Specialization and becoming part of our global community of learners! 
+
+Our sincerest thanks to YOU, for enrolling in this Specialization and becoming part of our global community of learners!
 
 We'd also like to thank the following for their work in creating the Machine Learning Specialization:
 
@@ -35,7 +36,7 @@ We'd also like to thank the following for their work in creating the Machine Lea
 
 - Chris Favila
 
-## Additional Curriculum Engineering Support 
+## Additional Curriculum Engineering Support
 
 - Juan Delgado
 
@@ -67,7 +68,7 @@ We'd also like to thank the following for their work in creating the Machine Lea
 
 - Brandon Iljas
 
-##  Marketing
+## Marketing
 
 - Ishita Chaudhary
 
