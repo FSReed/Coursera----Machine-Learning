@@ -38,7 +38,7 @@ def find_closest_centroids_test(target):
     
     assert type(idx) == np.ndarray, "Wrong type"
     assert idx.shape == (len(X),), f"Wrong shape. Expected: {(len(X),)} got: {idx.shape}"
-    assert np.allclose(idx, [0, 0, 0, 1, 1, 1]), "Wrong values"
+    assert np.allclose(idx, [0, 0, 0, 1, 1, 1]), f"Wrong values. Got idx = {idx}."
     
     # With 3 centroids
     X = np.array([[-1, -1], [-1.5, -1.5], [-1.5, 1],
